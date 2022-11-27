@@ -61,6 +61,10 @@ local Button = Tab:CreateButton({
 		elseif game.PlaceId == 6875469709 then
 			wait(1)
 			loadstring(game:HttpGet("https://raw.githubusercontent.com/Vernyfx/Strongest-Punxh/main/jajaxd3",true))();
+			
+			elseif game.PlaceId == 9170761016 then
+			wait(1)
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/Vernyfx/magiccli/main/jajaxd5",true))();
 
 		end
 		wait(1)
