@@ -69,6 +69,10 @@ local Button = Tab:CreateButton({
 						elseif game.PlaceId == 11162791099 then
 			wait(1)
 			loadstring(game:HttpGet("https://raw.githubusercontent.com/Vernyfx/SandboyHatchers/main/Hub",true))();
+			
+						elseif game.PlaceId == 11445923563 then
+			wait(1)
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/Vernyfx/Onefruit/main/jajaxd45",true))();
 
 		end
 		wait(1)
